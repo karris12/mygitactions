@@ -7,5 +7,3 @@ def bye():
 
 
 print(hello())
-
-
